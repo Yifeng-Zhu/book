@@ -1,0 +1,333 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<style type="text/css">
+<!--
+A:link {color: blue; text-decoration: none; font-weight: bold}
+A:active {color: blue; text-decoration: none; font-size: 100%}
+A:visited {color: blue; text-decoration: none; font-weight: bold}
+A:hover {color: red; text-decoration: none; font-size: 100%}
+.white {
+	color: #FFF;
+}
+.STYLE4 {
+	color: #FF0000;
+	font-weight: bold;
+}
+.STYLE5 {
+	color: #990000;
+	font-weight: bold;
+}
+.STYLE6 {color: #990000}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C</title>
+
+</head>
+
+
+
+
+<body style="background-color: rgb(255, 255, 255);">
+<?php include_once("analyticstracking.php") ?>
+<table align="center" border="0" width="100%">
+<tbody>
+<tr>
+<td rowspan="6" width="194">
+<div align="center"><img src="zhu_book_front_cover_v3.png" alt="Yifeng Zhu" width="164" height="221"></div></td>
+<td width="1442"><strong><font color="#990000" face="Courier New, Courier, mono" size="+3">Embedded Systems with ARM Cortex-M Microcontrollers <br>
+       in Assembly Language and C (Third Edition)</font></strong></td>
+</tr>
+<tr>
+<td><strong>ISBN-13: </strong>978-0-9826926-6-0, <strong>Publisher:</strong> E-Man Press LLC; 3rd edition (July 2017)</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td><strong><font face="Georgia, Times New Roman, Times, serif">Available from <a href="https://www.amazon.com/dp/0982692668">Amazon</a>, <a href="https://www.walmart.com/ip/Embedded-Systems-with-Arm-Cortex-M-Microcontrollers-in-Assembly-Language-and-C-Third-Edition-9780982692660/624024697">Walmart</a></font></strong></td>
+</tr>
+<tr>
+  <td align="center"><div align="left"></div>    
+  <div align="left"></div></td>
+  </tr>
+
+<tr>
+  <td height="32">
+    <div align="left"><a href="index.php">Home</a> <strong>/ </strong> <a href="intro.php">Introduction </a> <strong>/ </strong><a href="adoptions.php">Adoptions </a><strong>/ </strong><a href="lecture.php">Instructor Site </a><strong> / </strong><a href="lab.php">Sample Labs </a> <strong> / </strong> <a href="kit.php">Lab Kit </a>/<span class="STYLE4">  Tutorials</span><strong> / </strong><a href="faq.php">FAQ</a></div>
+    <div align="left"><font face="Georgia, Times New Roman, Times, serif"><a href="calendar/index.php"> </a></font></div>  </td>
+</tr>
+</tbody>
+</table>
+<table width="100%" border="0" align="center">
+  <tbody>
+    <tr bgcolor="#ffffff">
+      <td height="40"><hr></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="21"><ul>
+        <li><strong><a href="lab_tutorial/Tutorial_1_Keil_Installation.pdf">Keil v5 installation</a></strong> (<a href="lab_tutorial/Tutorial_1_Keil_Installation.pdf">pdf</a>) </li>
+        <li>Tutorials        </li>
+        <ol>
+          <li><a href="https://youtu.be/0t_Myn4UYUw" target="_blank">Create a C project in MDK-Keil</a></li>
+          <li><a href="https://youtu.be/w4gPcYRk9o8" target="_blank">Debug a C program in MDK-Keil</a></li>
+          <li><a href="https://youtu.be/o6ZWD0PAoJk" target="_blank">STM32L4 Clock Configuration</a></li>
+          <li><a href="https://youtu.be/u9vUyRjtG3Y" target="_blank">Printing messages via UART through ST-Link V2.1</a>
+            <ul>
+              <li><a href="STM32L476G_STLink_UART_Debug.zip">Demo Code.zip</a></li>
+              <li><a href="STM32L476G_STLink_UART_Debug_Printf.zip">Demo Code supporting printf and scanf.zip</a></li>
+            </ul>
+          </li>
+          <li><a href="https://youtu.be/OiwwB0AvIBI" target="_blank">Code download errors</a></li>
+          <li><a href="https://youtu.be/KUZS8xWWI2Y" target="_blank">Logic analyzer in Keil</a></li>
+        </ol>
+        <li>Short Lectures
+          <ol>
+            <li><a href="https://youtu.be/NED9IIpteXA" target="_blank">Why use Two's Complement?</a></li>
+            <li><a href="https://youtu.be/MxGW2WurKuM" target="_blank">Carry flag for unsigned addition and subtraction</a></li>
+            <li><a href="https://youtu.be/BIn6iyYIGio" target="_blank">Overflow flag for signed addition and subtraction</a></li>
+            <li><a href="https://youtu.be/cc16ShyiUG8" target="_blank">C Pointer</a></li>
+            <li><a href="https://youtu.be/aT5XMOrid7Y" target="_blank">Memory-mapped I/O</a></li>
+            <li><a href="https://youtu.be/zHHwbRdstoQ" target="_blank">GPIO Output: Lighting up a LED</a></li>
+            <li><a href="https://youtu.be/BNqL7t7a9W4" target="_blank">GPIO Input: Interfacing joystick</a></li>
+            <li><a href="https://youtu.be/3_sMAJQErw4" target="_blank">LCD Driver</a></li>
+            <li><a href="https://youtu.be/uFBNf7F3l60" target="_blank">Interrupts</a></li>
+            <li><a href="https://youtu.be/K0vmH2YGbOY" target="_blank">Interrupt Enable and Interrupt Priority</a></li>
+            <li><a href="https://youtu.be/uKwD3JuRWeA" target="_blank">External interrupts (EXTI)</a></li>
+            <li><a href="https://youtu.be/aLCUDv_fgoU" target="_blank">System Timer (SysTick)</a></li>
+            <li><a href="https://youtu.be/zkrVHIcLGww" target="_blank">Timer PWM output</a></li>
+            <li><a href="https://youtu.be/2FoZ7kHOdT0" target="_blank">Timer Input Capture</a></li>
+            <li><a href="https://youtu.be/3brOzLJmeek" target="_blank">Booting Process</a></li>
+            <li><a href="https://youtu.be/45-2C3PUOxU" target="_blank">Volatile Variables</a></li>
+            <li><a href="https://youtu.be/JjnyYf4BIco" target="_blank">Race Condition</a></li>
+            <li><a href="https://youtu.be/q-9CqPuNSOY" target="_blank">ADC</a></li>
+            <li><a href="https://youtu.be/S1XU4bmWwHI" target="_blank">Floating-Point Unit (FPU)</a></li>
+            <li><a href="https://youtu.be/YXKDjVcCWyE" target="_blank">Fixed Point Numbers</a></li>
+            <li><a href="https://youtu.be/yW3tbLMyG0U" target="_blank">Why learn assembly language</a></li>
+            <li><a href="https://youtu.be/T1C9Kj_78ek" target="_blank">Big Endian and Little Endian</a></li>
+            <li><a href="https://youtu.be/CtfV3HsHwk4" target="_blank">Load and Store Instructions</a></li>
+            <li><a href="https://youtu.be/zgkxPdPkxa8" target="_blank">Addressing mode: pre-index, post-index, and pre-index with update</a></li>
+            <li><a href="https://youtu.be/H-vOP2yRUj4" target="_blank">Arithmetic and Logical Instructions</a></li>
+            <li><a href="https://youtu.be/SGJibM1D2_A" target="_blank">Updating NZCV bit flags</a></li>
+            <li><a href="https://youtu.be/_QKD7f1cmRI" target="_blank">Branch Instructions</a></li>
+            <li><a href="https://youtu.be/_QKD7f1cmRI" target="_blank">Conditional Execution</a></li>
+            <li><a href="https://youtu.be/xt2Q9n1Udb4" target="_blank">Calling a subroutine</a></li>
+            <li><a href="https://youtu.be/IYUfnHZ4URg" target="_blank">Passing arguments to a subroutine</a></li>
+            <li><a href="https://youtu.be/DGKjFKjxAYs" target="_blank">Preserving registers in a subroutine</a></li>
+            <li><a href="https://youtu.be/7Xe9pCrzH98" target="_blank">Mixing C and assembly</a></li>
+          </ol>
+        </li>
+      </ul></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="21"><hr></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="132"><table width="100%" border="0">
+        <tr>
+          <td><table width="100%" border="0">
+            <tr>
+              <td><span class="STYLE6"><strong>Tutorial 1:</strong> <strong>Create a project in Keil v5</strong> </span>(<a href="lab_tutorial/Tutorial_2_Keil_Project_Creation.pdf">pdf</a>) 
+                <ol>
+                <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/0t_Myn4UYUw?rel=0" frameborder="0" allowfullscreen></iframe>
+              </ol>              </td>
+              <td><span class="STYLE6"><strong>Tutorial 2:</strong> <strong>Debugging in Keil v5</strong></span> (<a href="lab_tutorial/Tutorial_3_Keil_Debugger.pdf">pdf</a>) 
+                <ol>
+                <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/w4gPcYRk9o8?rel=0" frameborder="0" allowfullscreen></iframe>
+              </ol>              </td>
+            </tr>
+            <tr>
+              <td><span class="STYLE6"><strong>Tutorial 3:</strong><strong>Clock configuration</strong> <strong>of STM32L4 processors </strong></span>                
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/o6ZWD0PAoJk?rel=0" frameborder="0" allowfullscreen></iframe>
+                </ol>              </td>
+              <td><p><span class="STYLE6"><strong>Tutorial 4:</strong> <strong>Printing messages via UART through ST-Link V2.1</strong></span> </p>
+                <ul>
+                  <li><a href="STM32L476G_STLink_UART_Debug.zip">Demo Code.zip</a></li>
+                  <li><a href="STM32L476G_STLink_UART_Debug_Printf.zip">Demo Code supporting printf and scanf.zip</a> </li>
+                </ul>                
+                <ol>
+                <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/u9vUyRjtG3Y?rel=0" frameborder="0" allowfullscreen></iframe>
+              </ol>              </td>
+            </tr>
+            <tr>
+              <td><span class="STYLE5">Tutorial 5: How to fix common errors?</span>                
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/OiwwB0AvIBI" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+		<td><span class="STYLE5">Tutorial 6: Logic analyzer in Keil</span>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/KUZS8xWWI2Y" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td><span class="STYLE5">Lecture 1: Why do we use Two's Complement?</span>                
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/NED9IIpteXA" frameborder="0" allowfullscreen></iframe>
+                </ol>              </td>
+              <td><span class="STYLE5">Lecture 2: Carry and Borrow Flag </span>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/MxGW2WurKuM" frameborder="0" allowfullscreen></iframe>
+                </ol>              </td>
+            </tr>
+            <tr>
+              <td><span class="STYLE5">Lecture 3: Overflow Flag </span>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/BIn6iyYIGio" frameborder="0" allowfullscreen></iframe>
+                </ol>              </td>
+              <td><span class="STYLE5">Lecture 4: Pointer </span>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/cc16ShyiUG8" frameborder="0" allowfullscreen></iframe>
+                </ol>              </td>
+            </tr>
+            <tr>
+              <td><span class="STYLE5">Lecture 5: Memory Mapped I/O </span>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/aT5XMOrid7Y" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><span class="STYLE5">Lecture 6: GPIO Output: Lighting up a LED </span>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/zHHwbRdstoQ" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+            <tr>
+              <td><span class="STYLE5">Lecture 7: GPIO Input: Interfacing a joystick </span>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/BNqL7t7a9W4" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><p class="STYLE5">Lecture 8: LCD </p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/3_sMAJQErw4" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+            <tr>
+              <td><p class="STYLE5">Lecture 9: Interrupts </p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/uFBNf7F3l60" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><p class="STYLE5">Lecture 10: Interrupt Enable and Interrupt Priority </p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/K0vmH2YGbOY" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+			<tr>
+              <td><p class="STYLE5">Lecture 11: External Interrupts (EXTI) </p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/uKwD3JuRWeA" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><p class="STYLE5">Lecture 12: System Timer (SysTick) </p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/aLCUDv_fgoU" frameborder="0" allowfullscreen></iframe>
+                </ol>              </td>
+            </tr>
+			<tr>
+			  <td><p class="STYLE5">Lecture 13: Timer: PWM output </p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/zkrVHIcLGww" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+			  <td><p class="STYLE5">Lecture 14: Timer Input Capture</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/2FoZ7kHOdT0" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+		</tr>
+	    <tr>
+              <td><p class="STYLE5">Lecture 15: Race Conditions </p>                
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/JjnyYf4BIco" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><p class="STYLE5">Lecture 16: Volatile Variables</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/45-2C3PUOxU" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+            <tr>        
+              <td><p class="STYLE5">Lecture 17: Booting process </p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/3brOzLJmeek" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><p class="STYLE5">Lecture 18: Analogy-to-Digital Conversion (ADC)</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/q-9CqPuNSOY" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+            <tr>
+              <td><p class="STYLE5">Lecture 19: Floating-Point Unit (FPU)</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/S1XU4bmWwHI" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><p class="STYLE5">Lecture 20: Fixed Point Numbers</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/YXKDjVcCWyE" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+            <tr>
+              <td><p class="STYLE5">Lecture 21: Why learn assembly language</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/yW3tbLMyG0U" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+                <td><p class="STYLE5">Lecture 22: Big Endian and Little Endian</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/T1C9Kj_78ek" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+            <tr>
+              <td><p class="STYLE5">Lecture 23: Load and Store Instructions</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/CtfV3HsHwk4" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+                <td><p class="STYLE5">Lecture 24: Addressing mode: pre-index, post-index, and pre-index with update</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/zgkxPdPkxa8" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+            </tr>
+            <tr>
+              <td><p class="STYLE5">Lecture 25: Arithmetic and Logical Instructions</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/H-vOP2yRUj4" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+                <td><p class="STYLE5">Lecture 26: Updating NZCV bit flags</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/SGJibM1D2_A" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+           </tr>
+           <tr>
+              <td><p class="STYLE5">Lecture 27: Branch Instructions</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/_QKD7f1cmRI" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+              <td><p class="STYLE5">Lecture 28: Conditional Execution</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/9hlxG8L5-G4" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+                <td><p class="STYLE5"></p>
+                </td>
+            </tr>
+            <tr>
+              <td><p class="STYLE5">Lecture 29: Calling a subroutine</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/xt2Q9n1Udb4" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+                <td><p class="STYLE5">Lecture 30: Passing Arguments to a Subroutine</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/IYUfnHZ4URg" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+           </tr>
+                       <tr>
+              <td><p class="STYLE5">Lecture 31: Preserving registers in a Subroutine</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/DGKjFKjxAYs" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+                <td><p class="STYLE5">Lecture 32: Mixing C and Assembly</p>
+                <ol>
+                  <iframe width="640" height="360" vspace="20" style="margin:15px" src="https://www.youtube.com/embed/7Xe9pCrzH98" frameborder="0" allowfullscreen></iframe>
+                </ol></td>
+           </tr>
+          </table></td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+</body></html>

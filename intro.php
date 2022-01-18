@@ -1,0 +1,98 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<style type="text/css">
+<!--
+A:link {color: blue; text-decoration: none; font-weight: bold}
+A:active {color: blue; text-decoration: none; font-size: 100%}
+A:visited {color: blue; text-decoration: none; font-weight: bold}
+A:hover {color: red; text-decoration: none; font-size: 100%}
+.white {
+	color: #FFF;
+}
+.STYLE1 {color: #990000}
+.STYLE2 {	color: #990000;
+	font-weight: bold;
+}
+.STYLE3 {
+	color: #FF0000;
+	font-weight: bold;
+}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C</title>
+
+</head>
+
+
+
+
+<body style="background-color: rgb(255, 255, 255);">
+<?php include_once("analyticstracking.php") ?>
+<table align="center" border="0" width="100%">
+<tbody>
+<tr>
+<td rowspan="6" width="194">
+<div align="center"><img src="zhu_book_front_cover_v3.png" alt="Yifeng Zhu" width="164" height="221"></div></td>
+<td width="1442"><strong><font color="#990000" face="Courier New, Courier, mono" size="+3">Embedded Systems with ARM Cortex-M Microcontrollers <br>
+       in Assembly Language and C (Third Edition)</font></strong></td>
+</tr>
+<tr>
+<td><strong>ISBN-13: </strong>978-0-9826926-6-0, <strong>Publisher:</strong> E-Man Press LLC; 3rd edition (July 2017)</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td><strong><font face="Georgia, Times New Roman, Times, serif">Available from <a href="https://www.amazon.com/dp/0982692668">Amazon</a>, <a href="https://www.walmart.com/ip/Embedded-Systems-with-Arm-Cortex-M-Microcontrollers-in-Assembly-Language-and-C-Third-Edition-9780982692660/624024697">Walmart</a></font></strong></td>
+</tr>
+<tr>
+  <td align="center"><div align="left"></div>    
+  <div align="left"></div></td>
+  </tr>
+
+<tr>
+  <td>
+    <div align="left"><a href="index.php">Home</a> <strong>/ </strong> Introduction <strong>/ </strong><a href="adoptions.php">Adoptions </a> <strong>/ </strong><a href="lecture.php">Instructor Site </a><strong> / </strong><a href="lab.php">Sample Labs </a><strong> / </strong> <a href="kit.php">Lab Kit</a>  <strong> / </strong> <a href="tutorials.php"> Tutorials </a><strong> / </strong><a href="faq.php">FAQ</a></div>
+    </div>
+    <div align="left"><font face="Georgia, Times New Roman, Times, serif"><a href="calendar/index.php"> </a></font></div>  </td>
+</tr>
+</tbody>
+</table>
+<table width="135%" border="0" align="center">
+  <tbody>
+    <tr bgcolor="#ffffff">
+      <td height="30"><hr></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="132"><p align="left"><strong><em>&ldquo;<span class="STYLE1">I hear and I forget. I see and I  remember. I do and I understand.</span>&rdquo; </em></strong><br>
+      Confucius (Chinese  philosopher, 551&ndash;479 BC) </p>
+        <p><span class="STYLE2">What are the changes in the third edition? </span></p>
+        <p>Significant changes in the third edition include updated serial communication description (UART, SPI, and I2C), new serial communication examples, incorporation of GNU gcc compiler, low power modes, modification of example programs from STM32L1 (Cortex-M3) to STM32L4 (Cortex-M4). </p>
+        <p><span class="STYLE2">What are the changes in the second edition? </span></p>
+        <p>The second edition includes three new topics, including floating-point programming (FPU), interfacing with external HD44780-compatible LCD, and digital signal processing (DSP). The inclusion of FPU and DSP expands the coverage of this book to Cortex-M4 and Cortex-M7 processors. The second edition has restructured some chapters to make the book easier to follow. </p>
+        <p align="left"><span class="STYLE2">Why learn embeded systems? </span></p>
+        <p>Modern embedded systems exploit a  single highly integrated chip consisting of one or more general-purpose  processor cores, memories, advanced peripherals, digital logic, and  miniaturized sensors. Due to small power dissipation, low fabrication cost, and  small size, such a System-on-Chip (SoC) becomes increasingly more popular in  many embedded applications, including cellphones, MP3 players, GPS, smart  watches, medical devices, fitness gadgets, and automobile control. ARM Cortex  processors are of one of such successful SoC chips in industry. </p>
+        <p><span class="STYLE2">What are featured in this book? </span></p>
+        <p>The book introduces basic programming of ARM Cortex-M cores in assembly and C at the register level, and the fundamentals of embedded system design. It presents basic concepts such as data representations (integer, fixed-point, floating-point), assembly instructions, stack, and implementing basic controls and functions of C language at the assembly level. It covers advanced topics such as interrupts, mixing C and assembly, direct memory access (DMA), system timer (SysTick), multi-tasking, SIMD instructions for digital signal processing (DSP), and instruction encoding/decoding. The book also gives detailed examples of interfacing peripherals, such as general purpose I/O (GPIO), LCD driver, keypad interaction, stepper motor control, PWM output, timer input capture, DAC, ADC, real-time clock (RTC), and serial communication (USART, I2C, SPI, and USB).        </p>
+        <p>The  book has the following features:</p>
+        <ul>
+          <li>Focusing on register-level programming on bare metal hardware, with no or minimum usage of STM, CMSIS, and ARM APIs<br>
+          </li>
+          <li>Emphasis on structured programming and top-down modular design in both C and assembly language<br>
+          </li>
+          <li>Line-by-line translation and comparison between C and ARM assembly<br>
+          </li>
+          <li>Mixture of C and assembly languages, such as a C program calling assembly subroutines, and an assembly program calling C subroutines <br>
+          </li>
+          <li>Balance between theory and practical examples <br>
+          </li>
+          <li>Valuable knowledge that prepares students for the courses of computer architecture and operating systems</li>
+        </ul>
+        <p><span class="STYLE2">Why learn assembly programming? </span></p>
+        <p>Although assembly languages are used relatively less in  modern embedded systems, learning assembly languages is still very important. First,  an assembly language is not another programming language. It is a low-level  interface between hardware and software. It provides a better understanding of  how a processor executes a program. Assembly programming is the prerequisite  knowledge of compilers, operating systems, and computer architecture. Secondly,  assembly programs can potentially run faster than programs developed in  high-level languages such as C. Compilers sometimes cannot fully exploit the  hardware features of a specific processor, particularly when the processor  provides specific operations that compilers do not know. Therefore, it is often  that some speed-sensitive portion of an application is written in assembly  language. Thirdly, some operations have to be performed in assembly language  because there is no equivalent statement in high-level languages. This is why  assembly programs are often embedded in operating system kernel codes to  implement low-level tasks, such as booting and CPU scheduling. Finally yet  importantly, understanding how high-level constructs are translated into  low-level assembly instructions can help programmers to write more efficient  codes in high-level languages.</p>
+        <p>The audience for this book includes those who want to gain  knowledge of the inner working of a System-on-Chip (SoC), and experiences of  designing embedded systems at low level. This book would serve better as text  or reference material if readers have learned some basic C programming. The  book covers both basic concepts and advanced topics, suitable for a wide range  of audience. </p>
+      <p align="right">&nbsp;</p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+</body></html>

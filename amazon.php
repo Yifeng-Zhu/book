@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<style type="text/css">
+<!--
+A:link {color: blue; text-decoration: none; font-weight: bold}
+A:active {color: blue; text-decoration: none; font-size: 100%}
+A:visited {color: blue; text-decoration: none; font-weight: bold}
+A:hover {color: red; text-decoration: none; font-size: 100%}
+.white {
+	color: #FFF;
+}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C</title>
+
+</head>
+
+
+
+
+<body style="background-color: rgb(255, 255, 255);">
+<?php include_once("analyticstracking.php") ?>
+<table align="center" border="0" width="100%">
+<tbody>
+<tr>
+<td rowspan="6" width="194">
+<div align="center"><img src="zhu_book_front_cover_v3.png" alt="Yifeng Zhu" width="164" height="221"></div></td>
+<td width="1442"><strong><font color="#990000" face="Courier New, Courier, mono" size="+3">Embedded Systems with ARM Cortex-M Microcontrollers <br>
+       in Assembly Language and C (Third Edition)</font></strong></td>
+</tr>
+<tr>
+<td><strong>ISBN-13: </strong>978-0-9826926-6-0, <strong>Publisher:</strong> E-Man Press LLC; 3rd edition (July 2017)</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td><strong><font face="Georgia, Times New Roman, Times, serif">Available from <a href="https://www.amazon.com/dp/0982692668">Amazon</a>, <a href="https://www.walmart.com/ip/Embedded-Systems-with-Arm-Cortex-M-Microcontrollers-in-Assembly-Language-and-C-Third-Edition-9780982692660/624024697">Walmart</a></font></strong></td>
+</tr>
+<tr>
+  <td align="center"><div align="left"></div>    
+  <div align="left"></div></td>
+  </tr>
+<tr>
+  <td>
+    <div align="left"><a href="index.php">Home</a> <strong>/ </strong> <a href="intro.php">Introduction </a>  <strong>/ </strong><a href="adoptions.php">Adoptions </a> <strong>/ </strong><a href="lecture.php">Instructor Site</a><strong> / </strong><a href="lab.php">Sample Labs </a><strong> / </strong> <a href="kit.php">Lab Kit </a></div>
+    <div align="left"><font face="Georgia, Times New Roman, Times, serif"><a href="calendar/index.php"> </a></font></div>  </td>
+</tr>
+</table>
+<table width="100%" border="0" align="center">
+  <tbody>
+    <tr bgcolor="#ffffff">
+      <td height="27"><hr></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="21"><strong>Third edition: </strong></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="21"><ul>
+        <li><a href="https://www.amazon.com/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=zg_bs_3730_2?_encoding=UTF8&psc=1&refRID=3ZXMTN7TF33NEPJZ9GKM">USA</a></li>
+        <li><a href="https://www.amazon.co.uk/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">United Kingdom & Ireland</a></li>
+        <li><a href="https://www.amazon.fr/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">France</a></li>
+        <li><a href="https://www.amazon.ca/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">Canada</a></li>
+        <li><a href="https://www.amazon.it/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">Germany</a></li>
+        <li><a href="https://www.amazon.it/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">The Netherlands</a></li>
+        <li><a href="https://www.amazon.co.jp/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">Japan</a></li>
+        <li>China</li>
+        <li><a href="https://www.amazon.in/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">India</a></li>
+        <li><a href="https://www.amazon.com.br/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">Brazil</a></li>
+        <li><a href="https://www.amazon.com.mx/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692668/ref=dp_ob_title_bk">Mexico</a></li>
+        <li><a href="https://www.amazon.com.au/Embedded-Systems-Arm-Cortex-M-Micro/dp/0982692668/ref=sr_1_1?ie=UTF8&qid=1517965386&sr=8-1&keywords=Yifeng+Zhu">Australia</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="21"><strong>Second edition: </strong></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="32"><ul>
+        <li><a href="http://www.amazon.com/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692633/ref=sr_1_1?s=books&ie=UTF8&qid=1446567305&sr=1-1&keywords=0982692633">USA</a></li>
+        <li><a href="http://www.amazon.co.uk/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692633/ref=sr_1_1?ie=UTF8&qid=1446567441&sr=8-1&keywords=ISBN-13%3A+978-0982692639">United Kingdom & Ireland</a></li>
+        <li><a href="http://www.amazon.fr/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692633/ref=sr_1_1?ie=UTF8&qid=1446567470&sr=8-1&keywords=ISBN-13%3A+978-0982692639">France</a></li>
+        <li><a href="http://www.amazon.ca/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692633/ref=sr_1_1?ie=UTF8&qid=1446567495&sr=8-1&keywords=ISBN-13%3A+978-0982692639">Canada</a></li>
+        <li><a href="http://www.amazon.de/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692633/ref=sr_1_1?ie=UTF8&qid=1446567518&sr=8-1&keywords=ISBN-13%3A+978-0982692639">Germany</a></li>
+        <li><a href="http://www.amazon.it/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692633/ref=sr_1_1?ie=UTF8&qid=1446567547&sr=8-1&keywords=ISBN-13%3A+978-0982692639">The Netherlands</a></li>
+        <li><a href="http://www.amazon.co.jp/Embedded-Cortex-M-Microcontrollers-Assembly-Language/dp/0982692633/ref=sr_1_1?ie=UTF8&qid=1446567570&sr=8-1&keywords=ISBN-13%3A+978-0982692639">Japan</a></li>
+        <li>China</li>
+        <li><a href="http://www.amazon.in/Embedded-Systems-Arm-Cortex-M-Micro/dp/0982692633/ref=sr_1_1?ie=UTF8&qid=1446567623&sr=8-1&keywords=ISBN-13%3A+978-0982692639">India</a></li>
+        <li>Not available on Amazon of, Australia, Brazil, and Mexico.</li>
+      </ul>      </td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="21"><strong>First edition: </strong></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="132"><ul>
+	  	<li><a href="http://www.amazon.com/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1416415661&sr=8-1&keywords=Yifeng+Zhu">USA</a></li>
+	  	<li><a href="http://www.amazon.co.uk/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425399641&sr=8-1&keywords=Yifeng+Zhu">United Kingdom & Ireland</a></li>
+	  	<li><a href="http://www.amazon.fr/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425399737&sr=8-1&keywords=Yifeng+Zhu">France</a></li>
+	  	<li><a href="http://www.amazon.ca/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425399737&sr=8-1&keywords=Yifeng+Zhu">Canada</a></li>
+	  	<li><a href="http://www.amazon.de/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425399737&sr=8-1&keywords=Yifeng+Zhu">Germany</a></li>
+	  	<li><a href="http://www.amazon.it/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425399969&sr=8-1&keywords=Yifeng+Zhu">The Netherlands</a></li>
+	  	<li><a href="http://www.amazon.co.jp/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425400063&sr=8-1&keywords=Yifeng+Zhu">Japan</a></li>
+	  	<li><a href="http://www.amazon.cn/Embedded-Systems-with-Arm-Cortex-M3-Microcontrollers-in-Assembly-Language-and-C-Zhu-Yifeng/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425400097&sr=8-1&keywords=Yifeng+Zhu">China</a></li>
+	  	<li><a href="http://www.amazon.in/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1425400126&sr=8-1&keywords=Yifeng+Zhu">India</a></li>
+		<li><a href="http://www.amazon.com.br/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_21?ie=UTF8&qid=1449193902&sr=8-21&keywords=ARM+Cortex">Brazil</a></li>
+		<li><a href="http://www.amazon.com.mx/Embedded-Cortex-M3-Microcontrollers-Assembly-Language/dp/0982692625/ref=sr_1_1?ie=UTF8&qid=1449194245&sr=8-1&keywords=Yifeng+Zhu">Mexico</a></li>
+        <li>Not available on Amazon of Netherlands and Australia.</li>
+      </ul></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+</body></html>

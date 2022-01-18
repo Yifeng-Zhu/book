@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<style type="text/css">
+<!--
+A:link {color: blue; text-decoration: none; font-weight: bold}
+A:active {color: blue; text-decoration: none; font-size: 100%}
+A:visited {color: blue; text-decoration: none; font-weight: bold}
+A:hover {color: red; text-decoration: none; font-size: 100%}
+.white {
+	color: #FFF;
+}
+.STYLE4 {font-size: medium}
+.STYLE5 {color: #FF0000}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C</title>
+
+</head>
+
+
+<body style="background-color: rgb(255, 255, 255);">
+<?php include_once("analyticstracking.php") ?>
+<table align="center" border="0" width="100%">
+<tbody>
+<tr>
+<td rowspan="6" width="194">
+<div align="center"><img src="zhu_book_front_cover_v3.png" alt="Yifeng Zhu" width="164" height="221"></div></td>
+<td width="1442"><strong><font color="#990000" face="Courier New, Courier, mono" size="+3">Embedded Systems with ARM Cortex-M Microcontrollers <br>
+       in Assembly Language and C (Third Edition)</font></strong></td>
+</tr>
+<tr>
+<td><strong>ISBN-13: </strong>978-0-9826926-6-0, <strong>Publisher:</strong> E-Man Press LLC; 3rd edition (July 2017)</td>
+</tr>
+<tr>
+
+</tr>
+<tr>
+<td><strong><font face="Georgia, Times New Roman, Times, serif">Available from <a href="https://www.amazon.com/dp/0982692668">Amazon</a>, <a href="https://www.walmart.com/ip/Embedded-Systems-with-Arm-Cortex-M-Microcontrollers-in-Assembly-Language-and-C-Third-Edition-9780982692660/624024697">Walmart</a></font></strong></td>
+</tr>
+<tr>
+  <td align="center"><div align="left"><strong><font face="Georgia, Times New Roman, Times, serif"><a href="https://www.amazon.com/dp/0982692668"></a></font></strong></div>    
+  <div align="left"></div></td>
+  </tr>
+
+<tr>
+  <td>
+    <div align="left"><a href="index.php">Home</a> <strong>/ </strong> <a href="intro.php">Introduction </a> <strong>/ <span class="STYLE5">Adoptions</span> / </strong><a href="lecture.php">Instructor Site </a><strong> / </strong><a href="lab.php">Sample Labs </a><strong> / </strong> <a href="kit.php">Lab Kit</a> <strong> / </strong> <a href="tutorials.php"> Tutorials </a><strong> / </strong><a href="faq.php">FAQ</a></div>
+    </div>
+    <div align="left"><font face="Georgia, Times New Roman, Times, serif"><a href="calendar/index.php"> </a></font></div>  </td>
+</tr>
+</tbody>
+</table>
+<table width="100%" border="0" align="center">
+  <tbody>
+    <tr bgcolor="#ffffff">
+      <td height="30"><hr></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="32"><span class="STYLE4"><strong>Partical  list of schools using the book.</strong> Missing one? <a href="mailto:Yifeng.Zhu@maine.edu">Tell me</a>. </span></td>
+    </tr>
+    <tr bgcolor="#ffffff">
+      <td height="103"><table border="0">
+        <tr>
+          <td align="left" valign="top"><p><strong>U.S. and Canada</strong> (partial list)</p>
+            <ol>
+              <li>Arkansas  Tech University<br>
+                </li>
+              <li>Auburn  University<br>
+                </li>
+              <li>California  State University, Fresno<br>
+                </li>
+              <li>California  State University, Long Beach</li>
+              <li>California State University, San Marcos<br>
+              </li>
+              <li>California  State University, Northridge<br>
+                </li>
+              <li>California  Lutheran University<br>
+                </li>
+              <li>Carroll  University </li>
+              <li>Christopher Newport University</li>
+              <li>College of Southern Maryland<br>
+              </li>
+              <li>Colorado  State University</li>
+              <li>Conestoga College <br>
+              </li>
+              <li>Ecole  Polytechnique Montreal</li>
+	      <li>Embry-riddle Aeronautical University<br></li>
+              <li>Farmingdale  State College - SUNY<br>
+                </li>
+              <li>Florida  International University<br>
+                </li>
+              <li>Indiana  University&ndash;Purdue University Indianapolis<br>
+                </li>
+	      <li>Kennesaw  State University</li>
+ 	      <li>Liberty University</li>
+              <li>Loyola University Maryland</li>
+              <li>McMaster  University</li>
+              <!-- <li>Michigan  State University</li> -->
+              <li>Minnesota State University Mankato</li>
+              <li>Missouri University of Science &amp; Technology<br>
+              </li>
+              <li>New Jersey  Institute of Technology <br>
+                </li>
+              <li>Northwestern  Polytechnic University<br>
+                </li>
+              <li>Oklahoma  State University<br>
+                </li>
+              <li>Prairie View  A&amp;M University</li>
+              <li>Purdue University </li>
+              <li>Purdue University Northwest </li>
+              <li>Rochester Institute of Technology</li>
+              <li>Ryerson University<br>
+              </li>
+              <li>San Jose  State University</li>
+              <li>Sonoma State University</li>
+              <li>Southern Alberta Institute of Technology<br>
+              </li>
+              <li>The College  of New Jersey</li>
+              <li>Tufts University<br>
+              </li>
+              <li>Tuskegee  University<br>
+                </li>
+              <li>University  of British Columbia</li>
+              <li>University of California San Diego</li>
+              <li>University of Detroit Mercy</li>
+              <li>University  of Evansville</li>
+              <li>University of Houston </li>
+              <li>University  of Illinois at Chicago<br>
+                </li>
+              <li>University  of Maine</li>
+              <li>University of Maryland, Eastern Shore </li>
+              <li>University of Massachusetts Boston </li>
+	      <li>University of Missouri, Columbia</li>
+	     <li>University of Mississippi</li>
+              <li>University of Northwestern</li>
+              <li>University of North Texas</li>
+              <li>University of Ottawa</li>
+              <li>University of Pittsburgh<br>
+              </li>
+              <li>University  of Rhode Island</li>
+              <li>University of St. Thomas</li>
+              <li>University of Toledo</li>
+              <li>University  of Texas at Dallas</li>
+              <li>University  of Texas at Rio Grande Valley</li>
+              <li>University of Texas at Tyler</li>
+              <li>University  of Washington Bothell</li>
+              <li>University of Wisconsin Stout</li>
+              <li> Utah State University</li>
+              <li>Utah Valley  University</li>
+              <li>Villanova University</li>
+              <li>Virginia  Commonwealth University</li>
+              <li>Walla Walla University</li>
+              <li>Washington State University Vancouver</li>
+              <li>Western Washington University</li>
+              <li> Western University </li>
+              <li>Youngstown State University</li>
+            </ol></td>
+          <td align="left" valign="top"><p><strong>International</strong> (partial list)</p>
+            <ol>
+              <li>American University of Ras Al Khaimah, UAE</li>
+              <li>Andalas University, Indonesia</li>
+              <li>Ankara Yildirim Beyaz&#305;t University, Turkey</li>
+              <li> Anna University, India</li>
+              <li>Bogazici University, Turkey</li>
+              <li>Cork Institute of Technology, Ireland </li>
+	      <li>Fatih Sultan Mehmet Vakif University, Turkey</li>
+	 	<li>Federal Institute of Technology of the Paraiba, Brazil</li>
+              <li>Halmstad University, Sweden</li>
+              <li>INSA de Rennes, France <br>
+              </li>
+	      <li>I-Shou University, Taiwan</li>
+		<li>Kuwait University, Kuwait</li>
+              <li>Leipzig University of Applied Sciences (HTWK), Germany </li>
+	      <li>Marmara University, Turkey </li>
+		<li>OTH Regensburg, Germany</li>
+              <li>&Oslash;stfold University College, Norway </li>
+              <li>Polytechnic University of Catalonia, Spain<br>
+              </li>
+              <li>Reutlingen University, German</li>
+              <li>Sonoma State University, Finland </li>
+              <li>SRH Hochschule Heidelberg, German <br>
+              </li>
+              <li>Tecnol&oacute;gico de Monterrey, Mexico</li>
+              <li>Technische Universitaet Muenchen, Germany                </li>
+              <li>Technical University of Madrid (UPM) , Spain <br>
+              </li>
+              <li>University of Central Lancashire, Preston, England<br>
+                </li>
+                <li>University of A Coru&ntilde;a, Spain</li>
+              <li>University of Alcal&aacute;, Spain </li>
+              <li>University of Maribor, Slovenia</li>
+              <li>University of Queensland, Australia</li>
+              <li>University of Tabriz, Iran</li>
+              <li>University of the West of England</li>
+              <li>Universidad Nacional de Tucum&aacute;n, Argentina<br>
+                </li>
+              <li>Universidade Federal de Pernambuco, Brazil <br>
+                </li>
+              <li>Yanbu Industrial College, Kingdom of Saudi Arabia</li>
+            </ol>            
+            <p>&nbsp;</p></td>
+        </tr>
+      </table>
+      <p align="left">&nbsp;</p>
+        <p align="right">&nbsp;</p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+</body></html>
